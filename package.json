@@ -33,8 +33,17 @@
   },
   "homepage": "https://github.com/weui/react-weui",
   "dependencies": {
+    "autoprefixer": "^6.7.7",
     "babel-runtime": "^6.18.0",
+    "extract-text-webpack-plugin": "^3.0.0",
+    "fbjs": "^0.8.15",
+    "html-webpack-plugin": "^2.30.1",
+    "open-browser-webpack-plugin": "0.0.1",
     "prop-types": "^15.5.10",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "webpack": "^3.6.0",
+    "webpack-dev-server": "^2.8.2",
     "weui": "^1.1.0"
   },
   "devDependencies": {

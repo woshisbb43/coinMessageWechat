@@ -185,8 +185,8 @@ const Home = (props) => {
     return (
         <Page
             className="home"
-            title={<img src={Logo} alt="weui" height="21px" />}
-            subTitle="A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications."
+            title={<img src={Logo} alt="币知道" height="21px" />}
+            subTitle="币知道服务号"
             spacing
         >
             <ul>
