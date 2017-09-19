@@ -189,7 +189,7 @@ const Home = (props) => {
             subTitle="币知道服务号"
             spacing
         >
-            {/* <ul>
+            <ul>
                 {menus.map((menu, i)=>(
                     <li key={i}>
                         <Accordion
@@ -215,7 +215,7 @@ const Home = (props) => {
                         </Accordion>
                     </li>
                 ))}
-            </ul> */}
+            </ul>
         </Page>
     );
 };
